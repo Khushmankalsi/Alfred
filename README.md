@@ -1,6 +1,8 @@
 # Alfred
 # Project Description
 
+Alfred is a personal virtual assistant made in Python with some libraries and apis . It can perform a lopt of functions in range from open and deleting files from your operating software to making google searchs managing your data finding files etc. It is mainly build up for physically disabled people who are not able to you computer by typing they can operate the computer with voice commands. It is a demo product type project much more advancements are to be made to make it fully perfect   
+
 This project consists of three main Python files: `client.py`, `main.py`, and `musicLibrary.py`. 
 
 ## File Details and Functionality
